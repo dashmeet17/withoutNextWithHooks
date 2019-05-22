@@ -1,0 +1,16 @@
+.rt-td {
+  text-align: center;
+}
+
+.trxnTable {
+    background-color: #b7babd8a !important;
+    width: 900px !important;
+}
+
+.container {
+  border: black solid 1px;
+}
+
+.button {
+  float : right;
+}

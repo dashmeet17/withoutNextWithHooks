@@ -1,0 +1,42 @@
+form {
+  margin: 30px 0;
+}
+
+.amount {
+  margin-left: 50%;
+  margin-top: 0px;
+  width: 250px;
+  height: 25px;
+}
+
+.helpText {
+  font-size: 8px;
+
+}
+
+.paymentForm {
+    background-color: #b7babd8a !important;
+}
+
+.container {
+  border: black solid 1px !important;
+  width: 900px !important;
+}
+
+.buttonGrp {
+  margin-top: 10px !important;
+}
+
+.trxnButton {
+  background-color: #b7babd8a !important;
+  border: #b7babd8a !important;
+  color: black !important;
+}
+
+.padding {
+  padding-top: 7%;
+}
+
+.transferBtn {
+  cursor:pointer;
+}
