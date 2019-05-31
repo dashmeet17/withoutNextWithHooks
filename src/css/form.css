@@ -11,11 +11,11 @@ form {
 
 .helpText {
   font-size: 8px;
-
 }
 
 .paymentForm {
-    background-color: #b7babd8a !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
 }
 
 .container {
@@ -28,8 +28,8 @@ form {
 }
 
 .trxnButton {
-  background-color: #b7babd8a !important;
-  border: #b7babd8a !important;
+  background-color: #b7babd3b !important;
+  border: black solid;
   color: black !important;
 }
 
@@ -37,6 +37,30 @@ form {
   padding-top: 7%;
 }
 
+div[disabled] {
+  pointer-events: none;
+  opacity: 0.7;
+}
+
 .transferBtn {
   cursor:pointer;
+  margin-left: 60%;
+}
+
+.marginTop {
+  margin-top: 3%;
+}
+
+.error {
+  outline: 2px solid red;
+}
+
+.errorMesg {
+  color:red;
+}
+
+.errorMesg {
+  margin-top: 1%;
+  color:red;
+  font-size:10px;
 }
